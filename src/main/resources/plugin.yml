@@ -1,0 +1,4 @@
+name: MkiiEconomy
+version: ${project.version}
+main: com.johnson.MkiiEconomy
+api-version: 1.16
